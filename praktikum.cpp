@@ -35,4 +35,6 @@ int main() {
 
     cout << "DATA BARANG NON-ELEKTRONIK" << endl;
     nonElektronik.tampilkanSpesifikasi();
+
+    return 0;
 }
