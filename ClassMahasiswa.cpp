@@ -20,4 +20,6 @@ int main(){
     mhs.NIM = 2024; 
     mhs.nama = "Sule"; 
     mhs.Nilai = 75.5; 
+
+    mhs.printData();
 }
