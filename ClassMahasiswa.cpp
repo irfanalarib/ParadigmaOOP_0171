@@ -15,5 +15,5 @@ class Mahasiswa {
 };
 
 int main(){
-    
+    Mahasiswa mhs; // deklarasi objek mhs dari kelas Mahasiswa
 }
