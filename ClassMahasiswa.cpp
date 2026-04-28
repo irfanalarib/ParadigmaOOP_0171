@@ -12,4 +12,8 @@ class Mahasiswa {
             cout << "Nama: " << nama << endl;
             cout << "Nilai: " << Nilai << endl;
         }
+};
+
+int main(){
+    
 }
