@@ -10,6 +10,9 @@ class Barang {
     string tanggalProduksi;
 
     void tampilkanSpesifikasi() {
-        
+        cout << "Nama Barang      : " << nama << endl;
+        cout << "Jumlah Stok      : " << jumlah << endl;
+        cout << "Kategori         : " << kategori << endl;
+        cout << "Tanggal Produksi : " << tanggalProduksi << endl;
     }
 };
