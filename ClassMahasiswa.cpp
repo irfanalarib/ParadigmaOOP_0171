@@ -16,4 +16,8 @@ class Mahasiswa {
 
 int main(){
     Mahasiswa mhs; // deklarasi objek mhs dari kelas Mahasiswa
+
+    mhs.NIM = 2024; 
+    mhs.nama = "Sule"; 
+    mhs.Nilai = 75.5; 
 }
