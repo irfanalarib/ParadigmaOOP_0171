@@ -32,4 +32,7 @@ int main() {
 
     cout << "DATA BARANG ELEKTRONIK" << endl;
     elektronik.tampilkanSpesifikasi();
+
+    cout << "DATA BARANG NON-ELEKTRONIK" << endl;
+    nonElektronik.tampilkanSpesifikasi();
 }
